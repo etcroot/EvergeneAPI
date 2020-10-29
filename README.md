@@ -26,7 +26,7 @@ https://evergene.io/api/:endpoint
 - **r/Floof**
 /api/floof
 
-#### Coming Soon
+### Coming Soon | IN PROGRESS
 - **Hug**
 /api/hug
 - **Cuddle**

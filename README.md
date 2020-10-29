@@ -25,3 +25,17 @@ https://evergene.io/api/:endpoint
 /api/aww
 - **r/Floof**
 /api/floof
+
+#### Coming Soon
+- **Hug**
+/api/hug
+- **Cuddle**
+/api/cuddle
+- **Kiss**
+/api/kiss
+- **Slap**
+/api/slap
+- **Feed**
+/api/feed
+- **Poke**
+/api/poke
